@@ -5,6 +5,6 @@ A set of SAS mini data analysis programs.
 The repository has the following structure:
 * **code** contains commented SAS codes
 * **data** contains data files 
-* **output** contains SAS output.
+* **output** contains SAS output files.
 
 
